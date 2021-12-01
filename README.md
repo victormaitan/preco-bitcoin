@@ -1,16 +1,56 @@
-# preco_bitcoin
+# App Preço Bitcoin
 
-Um app para visualização do preço do bitcoin.
+App criado para o aprendizado de integrações do Flutter/Dart com APIs.
 
-## Getting Started
+Ao clicar no botão atualizar, a cotação atual do Bitcoin em reais é atualizado e mostrado.
 
-This project is a starting point for a Flutter application.
+## Imagens
 
-A few resources to get you started if this is your first Flutter project:
+<span>
+  <img src="assets/prints/print1.png" border="1" alt="Tela 1" max-width="200px"/>
+  <img src="assets/prints/print2.png" border="1" alt="Tela 2" max-width="200px"/>
+</span>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Play Store
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Confira meus apps publicados na <br>
+<a href="https://play.google.com/store/apps/dev?id=6851722860195299838"><img src="https://img.shields.io/badge/-Google Play-000000?style=for-the-badge&logo=Google Play&logoColor=ffffff" /></a>
+
+## Tecnologias utilizadas
+
+<span>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=API%20Rest&logoColor=2f2f2f" />
+  <img src="https://img.shields.io/badge/-Android-1f8737?style=for-the-badge&logo=Android&logoColor=ffffff" />
+</span>
+
+## Contato
+<p align="center">
+  <!--Meu Site-->
+  <a href="https://victormaitan.vercel.app"><img src="https://img.shields.io/badge/-Meu site-242424?style=for-the-badge&logo=Vercel&logoColor=04bbcc" /></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/victor.maitan/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victor.maitan/"/></a>
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/victormaitan/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormaitan/" /></a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/victormaitan" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormaitan"/></a>
+  <!-- Twitch -->
+   <a href="https://www.twitch.tv/maitandev">
+  <img src="https://img.shields.io/badge/Twitch-772ce8?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/maitandev"/></a>
+  <!-- Github -->
+  <a href="https://github.com/victormaitan">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/victormaitan"/></a>
+  <!-- Discord -->
+  <a href="https://discord.gg/Sma9zgh2ET">
+  <img src="https://img.shields.io/badge/Comunidade_Help_Dev!-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/Sma9zgh2ET"/></a>
+  <!-- Youtube -->
+  <a href="https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA">
+  <img src="https://img.shields.io/badge/Help_Dev!-Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UClOrDr09cPJEhml_F-85UDA"/></a>
+ </p> 
+
+Obrigado!
+
