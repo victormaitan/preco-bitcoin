@@ -21,7 +21,7 @@ Confira meus apps publicados na <br>
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-9a9a9a?style=for-the-badge&logo=API%20Rest&logoColor=2f2f2f" />
+  <img src="https://img.shields.io/badge/API-Rest-9a9a9a?style=for-the-badge&logo=json&logoColor=2f2f2f" />
   <img src="https://img.shields.io/badge/-Android-1f8737?style=for-the-badge&logo=Android&logoColor=ffffff" />
 </span>
 
